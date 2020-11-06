@@ -11,7 +11,7 @@ var svg = d3
   .attr("height", height + margin.top + margin.bottom)
   .append("g")
   .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-//C:\Users\timli\OneDrive\appjedi\Students\AudreyL\Instructions1\Instructions\StarterCode\assets\data\data.csv
+//StarterCode\assets\data\data.csv
 //Read the data
 var i = 0;
 var states = "";
